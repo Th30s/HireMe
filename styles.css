@@ -6,12 +6,16 @@ html{
     background:yellow;
     }
 img {
-    width:800px;
+    width:500px;
     text-align:center;
     }  
 h1{
     font-family: 'Spicy Rice', cursive;
     }
-p{
-    
-    }    
+h2{
+    font-family: 'Pattaya', sans-serif;
+    text-align:center;
+    }
+a :hover{
+    border: solid 10px white;
+    }
